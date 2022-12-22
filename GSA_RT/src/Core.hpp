@@ -4,6 +4,7 @@
 #include <array>
 #include <vector>
 #include <ranges>
+#include <chrono>
 
 #include <spdlog/spdlog.h>
 #include <stb_image_write.h>
