@@ -25,7 +25,7 @@ conan_cmake_autodetect(settings)
 
 conan_cmake_install(PATH_OR_REFERENCE .
                     BUILD missing
-                    REMOTE cci
+                    REMOTE conancenter
                     SETTINGS ${settings})
 
 add_subdirectory ("GSA_RT")
