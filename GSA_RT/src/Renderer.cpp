@@ -17,7 +17,6 @@ namespace gsa {
 		spdlog::info("Render begin");
 		auto clockStart = std::chrono::high_resolution_clock::now();
 
-
 		constexpr uint32_t imageWidth = 640;
 		constexpr uint32_t imageHeight = 480;
 		constexpr float aspectRatio = static_cast<float>(imageWidth) / static_cast<float>(imageHeight);

@@ -1,8 +1,7 @@
 ﻿#include "GSA_RT.hpp"
 
-#include "src/Core.hpp"
-#include "src/Renderer.hpp"
-
+#include "Core.hpp"
+#include "Renderer.hpp"
 
 int main()
 {
